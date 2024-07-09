@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/explore"
+        android:title="Explore"
+        android:icon="@drawable/eye_icon"
+        />
+
+    <item
+        android:id="@+id/connection"
+        android:title="connection"
+        android:icon="@drawable/connection_icon"
+        />
+    <item
+        android:id="@+id/chat"
+        android:title="Chat"
+        android:icon="@drawable/chat_icon"
+        />
+
+    <item
+        android:id="@+id/contact"
+        android:title="Contact"
+        android:icon="@drawable/contact_icon"
+        />
+    <item
+        android:id="@+id/hash"
+        android:title="Group"
+        />
+
+</menu>
